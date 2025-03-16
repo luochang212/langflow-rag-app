@@ -11,7 +11,7 @@ Langflow 是大模型可视化组件编排工具。它可以为大模型赋能�
 - 使用 Langflow 实现带对话记忆功能的知识库
 - 使用 Langflow 实现代码检查 (code review) 功能
 
-✨ 开发环境部署的相关脚本我放在这里了 [deploy](/deploy).
+✨环境部署相关的脚本，我放在这里了 [deploy](/deploy).
 
 
 ## 一、RAG 的概念介绍
