@@ -1,6 +1,6 @@
 # Langflow 实现本地知识库
 
-> 本项目将用 [langflow](https://github.com/langflow-ai/langflow) 实现一个本地知识库。
+> 本项目将用 <a href="https://github.com/langflow-ai/langflow" target="_blank">langflow</a> 实现一个本地知识库。
 
 Langflow 是大模型可视化组件编排工具。它可以为大模型赋能，比如可以为大模型应用增加对话记忆、文档检索等等的功能。它基本上站到了 LangChain 类似的生态位。开发大模型应用的需求通常比较 flexible，在功能和性能都满足的条件下，Langflow 可以快速实现原型开发和模块复用，是目前的效率之选。
 
@@ -11,7 +11,7 @@ Langflow 是大模型可视化组件编排工具。它可以为大模型赋能�
 - 使用 Langflow 实现带对话记忆功能的知识库
 - 使用 Langflow 实现代码检查 (code review) 功能
 
-✨ 开发环境部署的相关脚本我放在这里了 <a href="https://github.com/luochang212/langflow-rag-app/tree/main/deploy" target="_blank">deploy</a>.
+✨ 开发环境部署的相关脚本我放在这里了 [deploy](/deploy).
 
 
 ## 一、RAG 的概念介绍
@@ -73,7 +73,7 @@ Langflow 是大模型可视化组件编排工具。它可以为大模型赋能�
 
 实现一个这样的工作流特别简单，最终完成的工作流如下：
 
-![](/img/langflow_code_review.jpg)
+![](/img/code_review.jpg)
 
 目录：
 
